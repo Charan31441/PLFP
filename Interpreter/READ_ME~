@@ -1,0 +1,9 @@
+****************************************READ_ME*******************************************
+
+I have implemented simple "ipython" interpreter in python language (some part).
+
+Please see the Screenshot enclosed with this folder which shows ipython interpreter in one terminal and current program output in other terminal.(They both look similar including colors :P)
+
+Further Step:
+Implementing interpreter for functions definations in program
+
