@@ -7,3 +7,5 @@ Please see the Screenshot enclosed with this folder which shows ipython interpre
 Further Step:
 Implementing interpreter for functions definations in program
 
+PS: If you get error install python-termcolor
+    (sudo apt-get install python-termcolor)
