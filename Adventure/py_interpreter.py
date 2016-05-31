@@ -44,7 +44,7 @@ def infixToPostfix(infixexpr):
         postfixList.append(opStack.pop())
     return " ".join(postfixList)
 
-
+###########Function for Storing the Values###############
 def store(variable,value):		
 	for i in value:
 		try:
@@ -52,6 +52,7 @@ def store(variable,value):
 		except:
 			break
 	Values[variable]=float(value)	
+##############Calculator Function(not used) instead used eval inbuilt function ###############
 def Interpreter_calc(text):
 	left=0
         right=0	
